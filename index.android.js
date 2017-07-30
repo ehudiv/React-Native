@@ -13,4 +13,3 @@ const App = () => (
 
 // render it to the device
 AppRegistry.registerComponent('albums', () => App);
- 
